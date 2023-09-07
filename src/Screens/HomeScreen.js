@@ -5,7 +5,7 @@ export class HomeScreen extends Component {
   render() {
     return (
       <View>
-        <Text> textInComponent </Text>
+        <Text> Telemedicine </Text>
       </View>
     )
   }
